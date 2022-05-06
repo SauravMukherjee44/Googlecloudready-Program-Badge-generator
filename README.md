@@ -3,7 +3,7 @@
 <img src="public/screenshot.png"/>
 
 
-> GCR Facilitator Program Badge Generator based on GDE Badge Generator by Henry Lim(https://github.com/limhenry/gde-badge-generator)
+> GCR Facilitator Program Badge Generator based on GDE Badge Generator, GCR Facilitator Program Badge Generator based on Tracks completed, These badges are not official and provided by the facilitator. This project is not endorsed and/or supported by Google, the corporation.
 
 
 
