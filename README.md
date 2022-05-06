@@ -4,7 +4,7 @@
 <a href="https://gcrp-badge-generator.netlify.app/" target="_blank">Visit Now🚀</a>
 </h2> 
 
-<img src="public/screenshot.png"/>
+<img src="public/screenshot.jpg"/>
 
 
 > GCR Facilitator Program Badge Generator based on GDE Badge Generator, GCR Facilitator Program Badge Generator based on Tracks completed, These badges are not official and provided by the facilitator. This project is not endorsed and/or supported by Google, the corporation.
